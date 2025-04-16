@@ -1,8 +1,6 @@
-# Robot Programming
+# Herbybot: Miniature Robot Platform for Automating Urban Hydroponic Growing
+
 
 ## SUMMARY
 
-The implemented simulation attempts to count grapes using a grape-tagging approach, whereby attributes of grapes appearing on the left of the image are stored so they can be tracked to the right - whereby all grapes appearing in the frame are counted and added to a tally; the process is repeated until the end waypoint is reached.  A second 'fallback' system is included (commented out) that attempts to count grapes based on time segments, given the known speed of the robot, each frame for counting can be estimated over each journey up and down the vine row.
-
-### How to run this system
-This repository contains a ROS-based simulated grape-counting robot system that traverses each side of a grape vine to count bunches of grapes.
+This research addresses sustainable food production challenges posed by global population growth and harsh local conditions through the development of miniature robots for hydroponic farming. These 3D printed robots traverse horizontally-oriented tubular hydroponic systems along the outside of the pipes, providing a mobile and stable platform to support plant lifecycle management. Designed for inaccessible setups, the robots operate independently, even at height, offering automation and precision beyond manual methods. Grounded in Open Hardware principles, the platform is solder-free, built using readily available components, and printable on basic 3D printers, ensuring affordability and adaptability. The robots, controlled by an Arduino-based system, deliver optimised motility, stability, power efficiency and reliability, while enabling nutrient delivery, pest control and environmental monitoring. The open-source design promotes transparency, reproducibility and community uptake, encouraging growers, designers, and engineers to build, deploy, and improve functionality without proprietary restrictions. The robot is capable of operating continuously over a tested time period of seven days to record growth of plants through photography and targeted spraying of a feed solution onto plants leaves without requiring human intervention.
