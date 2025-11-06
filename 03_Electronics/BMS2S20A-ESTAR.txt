@@ -1,0 +1,17 @@
+2s Li-Ion 20A 7.4V Protection board is a small PCB mounted Lithium Battery protection module. This small and smart protection module comes with various features like Short-circuits, Over-charge, Over-discharge, Over-current protection and Balance function. It is straight forward to install and convenient to use in all your DIY portable projects.
+
+Suitable for lithium-ion cells in an 8.4V (max Voltage) 2s configuration.
+
+SPECIFICATIONS:
+
+Model: 2S Li-ion – 7.4V-8.4V
+Over-Charge Detection Voltage: 4.2V-4.3V
+Over-Discharge Detection Voltage: 2.5V-2.6V
+Over-Current Protection: 25A
+Max working Current: 20A
+Operating Temperature: -10℃ -50℃
+Static current: less than 18uA
+Internal Resistance: Less than 7mΩ
+Balance activation voltage: 4.17V-4.2V
+Balance current: 100 mA
+Size: Approx.: 48.4 x 20.1 x 4mm
