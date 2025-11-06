@@ -1,1 +1,119 @@
+BOM Item #1
+Part Name: Chassis Shell (3D Print)
+Manufacturer: Creality K1 3D Printer
+Part Number: HERBYBOT-CHASSIS-A
+Technical specifications: PLA 20% Infill 0.2mm Layer
+Specification/Value: *
+Quantity (QTY): 1
+Source/Supplier: Internal Reference
+Supplier URL: [Github address]01_Design_Files/STL
+Estimated Unit Cost (£): 0.5
+Notes: *
 
+---
+
+BOM Item #2
+Part Name: N20 Micro Gear Motor
+Manufacturer: Generic (China)
+Part Number: N20-6V-300RPM
+Technical specifications:
+Rated Voltage: DC 3V
+Voltage Range: DC 1.5V-5V
+Speed: 150RPM
+Rated Voltage: DC 6V
+Voltage Range: DC 3V-9V
+Speed: 50RPM, 100RPM, 150RPM, 200RPM, 300RPM
+Rated Voltage: DC 12V
+Voltage Range: DC 6V-12V
+Speed: 100RPM, 200RPM, 300RPM, 2000RPM
+Output Shaft Size: 3*10mm(D-Type)
+Specification/Value: *
+Quantity (QTY): 2
+Source/Supplier: Amazon UK
+Supplier URL: https://amzn.to/example-motor-link
+Estimated Unit Cost (£): 4.99
+Notes: A-DIGISHUO 2pcs N20 (12V 100RPM) Gear Reducer Motor GA12-N20 DC 3V/6V12V N20 Reduction Motor Mini Deceleration Gear Motor Micro Motor for Robort Smart Car Multiple Rotation Speed Optional
+
+---
+
+BOM Item #3
+Part Name: Motor Driver
+Manufacturer: Texas Instruments
+Part Number: DRV8833
+Technical specifications: Dual H-Bridge Motor Driver
+Specification/Value: *
+Quantity (QTY): 1
+Source/Supplier: RS Components
+Supplier URL: https://uk.rs-online.com/example-drv8833
+Estimated Unit Cost (£): 1.5
+Notes: *
+
+---
+
+BOM Item #4
+Part Name: Deep Groove Ball Bearing
+Manufacturer: Sourcing Map
+Part Number: MR128ZZ
+Technical specifications: 8mm ID x 12mm OD x 3.5mm Width
+Specification/Value: *
+Quantity (QTY): 4
+Source/Supplier: Amazon UK
+Supplier URL: https://amzn.to/example-mr128zz-link
+Estimated Unit Cost (£): 1
+Notes: *
+
+---
+
+BOM Item #5
+Part Name: Microcontroller with Camera
+Manufacturer: Espressif Systems
+Part Number: ESP32-CAM (ESP32-S)
+Technical specifications: OV2640 Camera
+Specification/Value: 8MB PSRAM
+Quantity (QTY): 1
+Source/Supplier: Farnell
+Supplier URL: https://uk.farnell.com/example-esp32-cam
+Estimated Unit Cost (£): 8.5
+Notes: *
+
+---
+
+BOM Item #6
+Part Name: Battery Charger/Protection Board
+Manufacturer: Generic (S2 Cell)
+Part Number: HX-2S-JH20
+Technical specifications: 2S 20A Balanced Li-ion Charger/BMS
+Specification/Value: *
+Quantity (QTY): 1
+Source/Supplier: AliExpress
+Supplier URL: https://www.aliexpress.com/example-2s-bms
+Estimated Unit Cost (£): 2.5
+Notes: *
+
+---
+
+BOM Item #7
+Part Name: Lithium-Ion Battery
+Manufacturer: Generic
+Part Number: 18650
+Technical specifications: 3.7V Nominal
+Specification/Value: 2500mAh minimum
+Quantity (QTY): 2
+Source/Supplier: Specialized Battery Supplier
+Supplier URL: https://battery-supplier.com/18650
+Estimated Unit Cost (£): 4
+Notes: *
+
+---
+
+BOM Item #8
+Part Name: Toggle Switch
+Manufacturer: Generic
+Part Number: KCD1-104
+Technical specifications: 2-pin SPST On/Off
+Specification/Value: *
+Quantity (QTY): 1
+Source/Supplier: eBay
+Supplier URL: https://ebay.co.uk/example-switch
+Estimated Unit Cost (£): 0.5
+Notes: *
