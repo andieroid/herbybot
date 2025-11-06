@@ -10,8 +10,6 @@ Supplier URL: [Github address]01_Design_Files/STL
 Estimated Unit Cost (£): 0.5
 Notes: *
 
----
-
 BOM Item #2
 Part Name: N20 Micro Gear Motor
 Manufacturer: Generic (China)
@@ -34,8 +32,6 @@ Supplier URL: https://amzn.to/example-motor-link
 Estimated Unit Cost (£): 4.99
 Notes: A-DIGISHUO 2pcs N20 (12V 100RPM) Gear Reducer Motor GA12-N20 DC 3V/6V12V N20 Reduction Motor Mini Deceleration Gear Motor Micro Motor for Robort Smart Car Multiple Rotation Speed Optional
 
----
-
 BOM Item #3
 Part Name: Motor Driver
 Manufacturer: Texas Instruments
@@ -47,8 +43,6 @@ Source/Supplier: RS Components
 Supplier URL: https://uk.rs-online.com/example-drv8833
 Estimated Unit Cost (£): 1.5
 Notes: *
-
----
 
 BOM Item #4
 Part Name: Deep Groove Ball Bearing
@@ -62,8 +56,6 @@ Supplier URL: https://amzn.to/example-mr128zz-link
 Estimated Unit Cost (£): 1
 Notes: *
 
----
-
 BOM Item #5
 Part Name: Microcontroller with Camera
 Manufacturer: Espressif Systems
@@ -75,8 +67,6 @@ Source/Supplier: Farnell
 Supplier URL: https://uk.farnell.com/example-esp32-cam
 Estimated Unit Cost (£): 8.5
 Notes: *
-
----
 
 BOM Item #6
 Part Name: Battery Charger/Protection Board
@@ -90,8 +80,6 @@ Supplier URL: https://www.aliexpress.com/example-2s-bms
 Estimated Unit Cost (£): 2.5
 Notes: *
 
----
-
 BOM Item #7
 Part Name: Lithium-Ion Battery
 Manufacturer: Generic
@@ -103,8 +91,6 @@ Source/Supplier: Specialized Battery Supplier
 Supplier URL: https://battery-supplier.com/18650
 Estimated Unit Cost (£): 4
 Notes: *
-
----
 
 BOM Item #8
 Part Name: Toggle Switch
