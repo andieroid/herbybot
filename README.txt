@@ -1,7 +1,9 @@
 # Herbybot: An Open-Source Robotic Platform for Hydroponic Monitoring
+# THIS PROTOTYPE IS NOT READY TO BUILD AS OF 6TH NOV 2025
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Version: Herbybot V1.0 (Design Freeze: 2025-11-17)
-License: CERN Open Hardware Licence v2 - Permissive (OHL-P)
+License: OSI Open Hardware Licence 4.0
 
 ## Project Overview
 
